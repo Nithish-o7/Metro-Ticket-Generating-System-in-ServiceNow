@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_module">
+    <sys_module action="INSERT_OR_UPDATE">
+        <content><![CDATA[{
+  "name": "x-1832142-metro-ticket-generating-system",
+  "version": "1.0.0",
+  "description": "Digitize metro ticket booking using ServiceNow to enable fast, accessible, and automated ticket generation through QR codes. The system allows users to book tickets by selecting stations and travel details, automatically calculates fares, and generates digital tickets instantly. It streamlines metro operations using Service Catalog, Flow Designer, and Notifications for a seamless and efficient travel experience.",
+  "license": "UNLICENSED",
+  "imports": {
+    "#now:*": "./@types/servicenow/fluent/*/index.js"
+  },
+  "scripts": {
+    "build": "now-sdk build",
+    "deploy": "now-sdk install",
+    "transform": "now-sdk transform",
+    "types": "now-sdk dependencies"
+  },
+  "devDependencies": {
+    "@servicenow/sdk": "4.7.2",
+    "@servicenow/glide": "27.0.5"
+  }
+}]]></content>
+        <external_source>false</external_source>
+        <path>x_1832142_metro_0/x-1832142-metro-ticket-generating-system/1.0.0/package.json</path>
+        <sys_class_name>sys_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-18 03:53:15</sys_created_on>
+        <sys_id>52b5459386ee44598cf00d58ed96857d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1832142_metro_0/x-1832142-metro-ticket-generating-system/1.0.0/package.json</sys_name>
+        <sys_package display_value="Metro Ticket Generating System" source="x_1832142_metro_0">600fa73093698f507202f9fbdd03d6bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Metro Ticket Generating System">600fa73093698f507202f9fbdd03d6bc</sys_scope>
+        <sys_update_name>sys_module_52b5459386ee44598cf00d58ed96857d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-18 03:53:15</sys_updated_on>
+    </sys_module>
+</record_update>

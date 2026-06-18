@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="DELETE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>u_starting_point</field>
+        <name>starting_point</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 04:55:10</sys_created_on>
+        <sys_id>48d34519936143907202f9fbdd03d61b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>starting_point</sys_name>
+        <sys_package display_value="Metro Ticket Generating System" source="x_1832142_metro_0">600fa73093698f507202f9fbdd03d6bc</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="x_1832142_metro_0_station_details_table _etl_ihub">f0c38191936143907202f9fbdd03d6e6</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="Source_x_1832142_metro_0_ihub_import_aeb34595936143907202f9fbdd03d6b5">2bc30519936143907202f9fbdd03d66e</sys_rte_eb_entity>
+        <sys_scope display_value="Metro Ticket Generating System">600fa73093698f507202f9fbdd03d6bc</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_48d34519936143907202f9fbdd03d61b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 04:55:10</sys_updated_on>
+    </sys_rte_eb_etl_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Metro Ticket Generating System">600fa73093698f507202f9fbdd03d6bc</application>
+        <file_path/>
+        <instance_id>50bb358beb3b3e10c040fddacad0cd91</instance_id>
+        <instance_name>dev372322</instance_name>
+        <name>sys_rte_eb_etl_field_48d34519936143907202f9fbdd03d61b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field"><sys_rte_eb_etl_field action="INSERT_OR_UPDATE"><coalesce>false</coalesce><coercion_action>create</coercion_action><field>u_starting_point</field><name>starting_point</name><sys_class_name>sys_rte_eb_etl_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-17 04:55:10</sys_created_on><sys_id>48d34519936143907202f9fbdd03d61b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>starting_point</sys_name><sys_package display_value="Metro Ticket Generating System" source="x_1832142_metro_0">600fa73093698f507202f9fbdd03d6bc</sys_package><sys_policy/><sys_rte_eb_definition display_value="x_1832142_metro_0_station_details_table _etl_ihub">f0c38191936143907202f9fbdd03d6e6</sys_rte_eb_definition><sys_rte_eb_entity display_value="Source_x_1832142_metro_0_ihub_import_aeb34595936143907202f9fbdd03d6b5">2bc30519936143907202f9fbdd03d66e</sys_rte_eb_entity><sys_scope display_value="Metro Ticket Generating System">600fa73093698f507202f9fbdd03d6bc</sys_scope><sys_update_name>sys_rte_eb_etl_field_48d34519936143907202f9fbdd03d61b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-17 04:55:10</sys_updated_on></sys_rte_eb_etl_field></record_update>]]></payload>
+        <payload_hash>-946536437</payload_hash>
+        <record_name>starting_point</record_name>
+        <reverted_from/>
+        <source>d10fa73093698f507202f9fbdd03d6c4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 04:55:10</sys_created_on>
+        <sys_id>08d34519936143907202f9fbdd03d61e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ed3eeeb060000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 04:55:10</sys_updated_on>
+        <type>ETL Entity field</type>
+        <update_guid>c4d3451916614390a8fb49726b6b671d</update_guid>
+        <update_guid_history>c4d3451916614390a8fb49726b6b671d:-946536437</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 04:57:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_etl_field">sys_rte_eb_etl_field</sys_db_object>
+        <sys_id>789f2dc56d6d468c9cb26e2ca063f010</sys_id>
+        <sys_metadata>48d34519936143907202f9fbdd03d61b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>starting_point</sys_name>
+        <sys_package display_value="Metro Ticket Generating System" source="x_1832142_metro_0">600fa73093698f507202f9fbdd03d6bc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Metro Ticket Generating System">600fa73093698f507202f9fbdd03d6bc</sys_scope>
+        <sys_scope_delete display_value="">3c7e46effa83406cb38e2ea26c622390</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_etl_field_48d34519936143907202f9fbdd03d61b</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_etl_field_48d34519936143907202f9fbdd03d61b">08d34519936143907202f9fbdd03d61e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 04:57:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="c98fbcdd932143907202f9fbdd03d66e" extends="sys_import_set_row" label="x_1832142_metro_0_fare_matrix_table Data" max_length="40" name="x_1832142_metro_0_ihub_import_5b3ff81d932143907202f9fbdd03d698" type="collection">
+        <element attributes="import_attribute_name=max_stops" label="max_stops" max_length="40" name="u_max_stops" type="integer"/>
+        <element attributes="import_attribute_name=min_stops" label="min_stops" max_length="40" name="u_min_stops" type="integer"/>
+        <element attributes="import_attribute_name=base_fare" label="base_fare" max_length="40" name="u_base_fare" type="integer"/>
+    </element>
+</database>

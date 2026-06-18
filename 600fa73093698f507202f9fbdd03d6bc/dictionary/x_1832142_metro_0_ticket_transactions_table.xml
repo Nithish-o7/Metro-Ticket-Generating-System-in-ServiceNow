@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="007684cd93e98f507202f9fbdd03d673" label="Ticket Transactions Table" max_length="40" name="x_1832142_metro_0_ticket_transactions_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Starting Point" max_length="32" name="starting_point" reference="x_1832142_metro_0_station_details_table" type="reference"/>
+        <element label="Ending Point" max_length="32" name="ending_point" reference="x_1832142_metro_0_station_details_table" type="reference"/>
+        <element label="No of Ticket" max_length="40" name="no_of_ticket" type="integer"/>
+        <element label="Total Fare" max_length="20" name="total_fare" type="price"/>
+        <index name="index">
+            <element name="ending_point"/>
+        </index>
+        <index name="index2">
+            <element name="starting_point"/>
+        </index>
+    </element>
+</database>

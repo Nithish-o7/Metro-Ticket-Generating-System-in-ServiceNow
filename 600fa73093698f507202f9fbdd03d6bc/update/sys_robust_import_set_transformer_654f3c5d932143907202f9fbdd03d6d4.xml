@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer">
+    <sys_robust_import_set_transformer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <batch_size>10</batch_size>
+        <description>RTE definition for x_1832142_metro_0_fare_matrix_table Data</description>
+        <name>x_1832142_metro_0_fare_matrix_table Data_rte_ihub</name>
+        <properties/>
+        <robust_transform_engine display_value="x_1832142_metro_0_fare_matrix_table Data_etl_ihub">dd4f3c5d932143907202f9fbdd03d6cf</robust_transform_engine>
+        <source_table>x_1832142_metro_0_ihub_import_5b3ff81d932143907202f9fbdd03d698</source_table>
+        <sys_class_name>sys_robust_import_set_transformer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 04:35:21</sys_created_on>
+        <sys_id>654f3c5d932143907202f9fbdd03d6d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1832142_metro_0_fare_matrix_table Data_rte_ihub</sys_name>
+        <sys_package display_value="Metro Ticket Generating System" source="x_1832142_metro_0">600fa73093698f507202f9fbdd03d6bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Metro Ticket Generating System">600fa73093698f507202f9fbdd03d6bc</sys_scope>
+        <sys_update_name>sys_robust_import_set_transformer_654f3c5d932143907202f9fbdd03d6d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 04:35:21</sys_updated_on>
+        <verbose>false</verbose>
+    </sys_robust_import_set_transformer>
+</record_update>

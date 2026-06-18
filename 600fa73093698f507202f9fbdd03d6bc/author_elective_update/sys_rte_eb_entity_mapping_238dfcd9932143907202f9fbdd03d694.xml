@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_entity_mapping">
+    <sys_rte_eb_entity_mapping action="DELETE">
+        <condition_script><![CDATA[/* Example Script  (function() {          //step1: access the input variables         if (input && input.temp.u_type == 'Disk') {         //step2: return true/false             return true;         }         return false;  })(); */  (function(input) {     // Add your code here. })(input);]]></condition_script>
+        <encoded_query/>
+        <entity_mapping_group/>
+        <ignore>false</ignore>
+        <is_conditional>false</is_conditional>
+        <name>IHUB_TEMP_TARGET_MAPPING</name>
+        <order>50</order>
+        <source_sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_x_1832142_metro_0_station_details_table">5b8dfcd9932143907202f9fbdd03d632</source_sys_rte_eb_entity>
+        <sys_class_name>sys_rte_eb_entity_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 04:27:50</sys_created_on>
+        <sys_id>238dfcd9932143907202f9fbdd03d694</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IHUB_TEMP_TARGET_MAPPING</sys_name>
+        <sys_package display_value="Metro Ticket Generating System" source="x_1832142_metro_0">600fa73093698f507202f9fbdd03d6bc</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="x_1832142_metro_0_station_details_table _etl_ihub">1b7d3cd9932143907202f9fbdd03d69a</sys_rte_eb_definition>
+        <sys_scope display_value="Metro Ticket Generating System">600fa73093698f507202f9fbdd03d6bc</sys_scope>
+        <sys_update_name>sys_rte_eb_entity_mapping_238dfcd9932143907202f9fbdd03d694</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 04:27:50</sys_updated_on>
+        <target_sys_rte_eb_entity display_value="Target_x_1832142_metro_0_station_details_table">4a8dbcd9932143907202f9fbdd03d6bf</target_sys_rte_eb_entity>
+    </sys_rte_eb_entity_mapping>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Metro Ticket Generating System">600fa73093698f507202f9fbdd03d6bc</application>
+        <file_path/>
+        <instance_id>50bb358beb3b3e10c040fddacad0cd91</instance_id>
+        <instance_name>dev372322</instance_name>
+        <name>sys_rte_eb_entity_mapping_238dfcd9932143907202f9fbdd03d694</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_rte_eb_entity_mapping"&gt;&lt;sys_rte_eb_entity_mapping action="INSERT_OR_UPDATE"&gt;&lt;condition_script&gt;&lt;![CDATA[/* Example Script  (function() {          //step1: access the input variables         if (input &amp;&amp; input.temp.u_type == 'Disk') {         //step2: return true/false             return true;         }         return false;  })(); */  (function(input) {     // Add your code here. })(input);]]&gt;&lt;/condition_script&gt;&lt;encoded_query/&gt;&lt;entity_mapping_group/&gt;&lt;ignore&gt;false&lt;/ignore&gt;&lt;is_conditional&gt;false&lt;/is_conditional&gt;&lt;name&gt;IHUB_TEMP_TARGET_MAPPING&lt;/name&gt;&lt;order&gt;50&lt;/order&gt;&lt;source_sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_x_1832142_metro_0_station_details_table"&gt;5b8dfcd9932143907202f9fbdd03d632&lt;/source_sys_rte_eb_entity&gt;&lt;sys_class_name&gt;sys_rte_eb_entity_mapping&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-06-17 04:27:50&lt;/sys_created_on&gt;&lt;sys_id&gt;238dfcd9932143907202f9fbdd03d694&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;IHUB_TEMP_TARGET_MAPPING&lt;/sys_name&gt;&lt;sys_package display_value="Metro Ticket Generating System" source="x_1832142_metro_0"&gt;600fa73093698f507202f9fbdd03d6bc&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_rte_eb_definition display_value="x_1832142_metro_0_station_details_table _etl_ihub"&gt;1b7d3cd9932143907202f9fbdd03d69a&lt;/sys_rte_eb_definition&gt;&lt;sys_scope display_value="Metro Ticket Generating System"&gt;600fa73093698f507202f9fbdd03d6bc&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_rte_eb_entity_mapping_238dfcd9932143907202f9fbdd03d694&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-06-17 04:27:50&lt;/sys_updated_on&gt;&lt;target_sys_rte_eb_entity display_value="Target_x_1832142_metro_0_station_details_table"&gt;4a8dbcd9932143907202f9fbdd03d6bf&lt;/target_sys_rte_eb_entity&gt;&lt;/sys_rte_eb_entity_mapping&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1565820167</payload_hash>
+        <record_name>IHUB_TEMP_TARGET_MAPPING</record_name>
+        <reverted_from/>
+        <source>d10fa73093698f507202f9fbdd03d6c4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 04:27:50</sys_created_on>
+        <sys_id>778dfcd9932143907202f9fbdd03d697</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ed3d5e3bb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 04:27:50</sys_updated_on>
+        <type>RTE Entity Mapping</type>
+        <update_guid>278dfcd92c21439098a6e06b68549f96</update_guid>
+        <update_guid_history>278dfcd92c21439098a6e06b68549f96:-1565820167</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 04:28:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_entity_mapping">sys_rte_eb_entity_mapping</sys_db_object>
+        <sys_id>22574926867e491087ac00ac66c82c90</sys_id>
+        <sys_metadata>238dfcd9932143907202f9fbdd03d694</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IHUB_TEMP_TARGET_MAPPING</sys_name>
+        <sys_package display_value="Metro Ticket Generating System" source="x_1832142_metro_0">600fa73093698f507202f9fbdd03d6bc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Metro Ticket Generating System">600fa73093698f507202f9fbdd03d6bc</sys_scope>
+        <sys_scope_delete display_value="">3c7e46effa83406cb38e2ea26c622390</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_entity_mapping_238dfcd9932143907202f9fbdd03d694</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_entity_mapping_238dfcd9932143907202f9fbdd03d694">778dfcd9932143907202f9fbdd03d697</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 04:28:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

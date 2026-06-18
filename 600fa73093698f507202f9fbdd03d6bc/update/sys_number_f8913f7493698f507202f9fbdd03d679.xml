@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="x_1832142_metro_0_station_details_table " name="x_1832142_metro_0_station_details_table">x_1832142_metro_0_station_details_table</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>MTGS</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-16 04:17:22</sys_created_on>
+        <sys_id>f8913f7493698f507202f9fbdd03d679</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MTGS</sys_name>
+        <sys_package display_value="Metro Ticket Generating System" source="x_1832142_metro_0">600fa73093698f507202f9fbdd03d6bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Metro Ticket Generating System">600fa73093698f507202f9fbdd03d6bc</sys_scope>
+        <sys_update_name>sys_number_f8913f7493698f507202f9fbdd03d679</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-16 04:17:22</sys_updated_on>
+    </sys_number>
+</record_update>
