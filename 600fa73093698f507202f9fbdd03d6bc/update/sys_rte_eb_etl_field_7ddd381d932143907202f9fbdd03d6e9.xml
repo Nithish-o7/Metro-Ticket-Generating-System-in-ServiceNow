@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="INSERT_OR_UPDATE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>sn_ihub_target_u_station_name</field>
+        <name>sn_ihub_target_u_station_name</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 04:29:05</sys_created_on>
+        <sys_id>7ddd381d932143907202f9fbdd03d6e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_ihub_target_u_station_name</sys_name>
+        <sys_package display_value="Metro Ticket Generating System" source="x_1832142_metro_0">600fa73093698f507202f9fbdd03d6bc</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="x_1832142_metro_0_station_details_table _etl_ihub">1b7d3cd9932143907202f9fbdd03d69a</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_x_1832142_metro_0_station_details_table">94dd381d932143907202f9fbdd03d61a</sys_rte_eb_entity>
+        <sys_scope display_value="Metro Ticket Generating System">600fa73093698f507202f9fbdd03d6bc</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_7ddd381d932143907202f9fbdd03d6e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 04:29:05</sys_updated_on>
+    </sys_rte_eb_etl_field>
+</record_update>

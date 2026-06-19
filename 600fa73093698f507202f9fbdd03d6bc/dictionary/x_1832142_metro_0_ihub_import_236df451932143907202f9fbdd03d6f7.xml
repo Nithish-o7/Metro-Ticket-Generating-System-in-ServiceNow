@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="a7ed3c1d932143907202f9fbdd03d697" extends="sys_import_set_row" label="x_1832142_metro_0_station_details_table " max_length="40" name="x_1832142_metro_0_ihub_import_236df451932143907202f9fbdd03d6f7" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_station_name" label="Station name" max_length="40" name="u_station_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=station_code" label="station_code" max_length="40" name="u_station_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=line_color" label="line_color" max_length="40" name="u_line_color" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=active" label="active" max_length="40" name="u_active" type="string"/>
+        <element attributes="import_attribute_name=sequence_number" label="sequence_number" max_length="40" name="u_sequence_number" type="integer"/>
+    </element>
+</database>

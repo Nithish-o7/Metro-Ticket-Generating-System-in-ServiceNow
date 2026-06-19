@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="INSERT_OR_UPDATE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>no_of_ticket</field>
+        <name>No of Ticket</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 04:58:47</sys_created_on>
+        <sys_id>89a40199936143907202f9fbdd03d6e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>No of Ticket</sys_name>
+        <sys_package display_value="Metro Ticket Generating System" source="x_1832142_metro_0">600fa73093698f507202f9fbdd03d6bc</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="x_1832142_metro_0_ticket_transactions_ta_etl_ihub">b5944191936143907202f9fbdd03d679</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="Target_x_1832142_metro_0_ticket_transactions_table">70a40199936143907202f9fbdd03d6d9</sys_rte_eb_entity>
+        <sys_scope display_value="Metro Ticket Generating System">600fa73093698f507202f9fbdd03d6bc</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_89a40199936143907202f9fbdd03d6e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 04:58:47</sys_updated_on>
+    </sys_rte_eb_etl_field>
+</record_update>

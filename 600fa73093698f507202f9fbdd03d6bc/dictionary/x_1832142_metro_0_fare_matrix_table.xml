@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="c5040c4993e98f507202f9fbdd03d6f8" label="Fare Matrix Table" max_length="40" name="x_1832142_metro_0_fare_matrix_table" type="collection">
+        <element label="Min Stops" max_length="255" name="min_stops" type="integer"/>
+        <element label="Base Fare" max_length="20" name="base_fare" type="price"/>
+        <element label="Max Stops" max_length="255" name="max_stops" type="integer"/>
+    </element>
+</database>

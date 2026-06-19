@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="INSERT_OR_UPDATE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>u_min_stops</field>
+        <name>min_stops</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 04:35:30</sys_created_on>
+        <sys_id>c85ff4dd932143907202f9fbdd03d6b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>min_stops</sys_name>
+        <sys_package display_value="Metro Ticket Generating System" source="x_1832142_metro_0">600fa73093698f507202f9fbdd03d6bc</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="x_1832142_metro_0_fare_matrix_table Data_etl_ihub">dd4f3c5d932143907202f9fbdd03d6cf</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="Source_x_1832142_metro_0_ihub_import_5b3ff81d932143907202f9fbdd03d698">ff4fb4dd932143907202f9fbdd03d6f9</sys_rte_eb_entity>
+        <sys_scope display_value="Metro Ticket Generating System">600fa73093698f507202f9fbdd03d6bc</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_c85ff4dd932143907202f9fbdd03d6b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 04:35:30</sys_updated_on>
+    </sys_rte_eb_etl_field>
+</record_update>

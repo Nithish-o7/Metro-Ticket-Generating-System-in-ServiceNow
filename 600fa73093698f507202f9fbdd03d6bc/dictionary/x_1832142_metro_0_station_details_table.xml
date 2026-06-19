@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="5b81fb7493698f507202f9fbdd03d6e3" label="Station Details Table" max_length="40" name="x_1832142_metro_0_station_details_table" type="collection">
+        <element label="Active" max_length="255" name="active" type="boolean"/>
+        <element label="Sequence Number" max_length="255" name="sequence_number" type="integer"/>
+        <element display="true" label="Station Name" max_length="40" name="u_station_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Line Color" max_length="255" name="line_color" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Green" sequence="0" value="Green"/>
+            </choice>
+        </element>
+        <element label="Station Code" max_length="40" name="station_code" type="string"/>
+    </element>
+</database>

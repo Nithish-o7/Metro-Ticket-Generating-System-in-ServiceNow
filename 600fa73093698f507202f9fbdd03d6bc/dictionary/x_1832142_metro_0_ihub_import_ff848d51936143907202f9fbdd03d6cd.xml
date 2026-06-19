@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="aa7589d9936143907202f9fbdd03d6e8" extends="sys_import_set_row" label="x_1832142_metro_0_ticket_transactions_ta" max_length="40" name="x_1832142_metro_0_ihub_import_ff848d51936143907202f9fbdd03d6cd" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ending_point" label="ending_point" max_length="40" name="u_ending_point" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=starting_point" label="starting_point" max_length="40" name="u_starting_point" type="string"/>
+        <element attributes="import_attribute_name=no_of_ticket" label="no_of_ticket" max_length="40" name="u_no_of_ticket" type="integer"/>
+    </element>
+</database>

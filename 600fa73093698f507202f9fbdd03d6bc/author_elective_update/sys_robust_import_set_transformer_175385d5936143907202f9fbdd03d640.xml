@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer">
+    <sys_robust_import_set_transformer action="DELETE">
+        <active>true</active>
+        <batch_size>10</batch_size>
+        <description>RTE definition for x_1832142_metro_0_ticket_transactions_ta</description>
+        <name>x_1832142_metro_0_ticket_transactions_ta_rte_ihub</name>
+        <properties/>
+        <robust_transform_engine/>
+        <source_table>x_1832142_metro_0_ihub_import_4e5341d5936143907202f9fbdd03d6e9</source_table>
+        <sys_class_name>sys_robust_import_set_transformer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 04:53:12</sys_created_on>
+        <sys_id>175385d5936143907202f9fbdd03d640</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1832142_metro_0_ticket_transactions_ta_rte_ihub</sys_name>
+        <sys_package display_value="Metro Ticket Generating System" source="x_1832142_metro_0">600fa73093698f507202f9fbdd03d6bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Metro Ticket Generating System">600fa73093698f507202f9fbdd03d6bc</sys_scope>
+        <sys_update_name>sys_robust_import_set_transformer_175385d5936143907202f9fbdd03d640</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 04:53:12</sys_updated_on>
+        <verbose>false</verbose>
+    </sys_robust_import_set_transformer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Metro Ticket Generating System">600fa73093698f507202f9fbdd03d6bc</application>
+        <file_path/>
+        <instance_id>50bb358beb3b3e10c040fddacad0cd91</instance_id>
+        <instance_name>dev372322</instance_name>
+        <name>sys_robust_import_set_transformer_175385d5936143907202f9fbdd03d640</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer"><sys_robust_import_set_transformer action="INSERT_OR_UPDATE"><active>true</active><batch_size>10</batch_size><description>RTE definition for x_1832142_metro_0_ticket_transactions_ta</description><name>x_1832142_metro_0_ticket_transactions_ta_rte_ihub</name><properties/><robust_transform_engine/><source_table>x_1832142_metro_0_ihub_import_4e5341d5936143907202f9fbdd03d6e9</source_table><sys_class_name>sys_robust_import_set_transformer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-17 04:53:12</sys_created_on><sys_id>175385d5936143907202f9fbdd03d640</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1832142_metro_0_ticket_transactions_ta_rte_ihub</sys_name><sys_package display_value="Metro Ticket Generating System" source="x_1832142_metro_0">600fa73093698f507202f9fbdd03d6bc</sys_package><sys_policy/><sys_scope display_value="Metro Ticket Generating System">600fa73093698f507202f9fbdd03d6bc</sys_scope><sys_update_name>sys_robust_import_set_transformer_175385d5936143907202f9fbdd03d640</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-17 04:53:12</sys_updated_on><verbose>false</verbose></sys_robust_import_set_transformer></record_update>]]></payload>
+        <payload_hash>-663789029</payload_hash>
+        <record_name>x_1832142_metro_0_ticket_transactions_ta_rte_ihub</record_name>
+        <reverted_from/>
+        <source>ebcfa4bf715732100a229b13380c8bec</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2026-06-17 04:58:05</sys_created_on>
+        <sys_id>7a74c959936143907202f9fbdd03d630</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ed3f1968e0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2026-06-17 04:58:05</sys_updated_on>
+        <type>Robust Import Set Transformer</type>
+        <update_guid>b274c95926614390db921c89551db230</update_guid>
+        <update_guid_history>b274c95926614390db921c89551db230:0,eb5385d59861439044c257fafac5d142:493509710</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-17 04:58:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_robust_import_set_transformer">sys_robust_import_set_transformer</sys_db_object>
+        <sys_id>6d61339c03fe48008f8877e925513d04</sys_id>
+        <sys_metadata>175385d5936143907202f9fbdd03d640</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1832142_metro_0_ticket_transactions_ta_rte_ihub</sys_name>
+        <sys_package display_value="Metro Ticket Generating System" source="x_1832142_metro_0">600fa73093698f507202f9fbdd03d6bc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Metro Ticket Generating System">600fa73093698f507202f9fbdd03d6bc</sys_scope>
+        <sys_scope_delete display_value="">3c7e46effa83406cb38e2ea26c622390</sys_scope_delete>
+        <sys_update_name>sys_robust_import_set_transformer_175385d5936143907202f9fbdd03d640</sys_update_name>
+        <sys_update_version display_value="sys_robust_import_set_transformer_175385d5936143907202f9fbdd03d640">7a74c959936143907202f9fbdd03d630</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-17 04:58:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

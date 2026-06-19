@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_module">
+    <sys_module action="INSERT_OR_UPDATE">
+        <content><![CDATA[{
+  "$schema": "http://cyclonedx.org/schema/bom-1.6.schema.json",
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.6",
+  "version": 1,
+  "serialNumber": "urn:uuid:24af541d-41cb-46b2-b340-21c3806f9e4e",
+  "metadata": {
+    "timestamp": "2026-06-18T03:50:37.226Z",
+    "tools": {
+      "components": [
+        {
+          "type": "library",
+          "name": "sdk-build-plugins",
+          "group": "@servicenow",
+          "version": "4.7.2",
+          "author": "ServiceNow"
+        }
+      ]
+    },
+    "component": {
+      "type": "application",
+      "name": "x-1832142-metro-ticket-generating-system",
+      "version": "1.0.0",
+      "bom-ref": "pkg:servicenow/x-1832142-metro-ticket-generating-system@1.0.0?sys_scope_id=600fa73093698f507202f9fbdd03d6bc",
+      "description": "Digitize metro ticket booking using ServiceNow to enable fast, accessible, and automated ticket generation through QR codes. The system allows users to book tickets by selecting stations and travel details, automatically calculates fares, and generates digital tickets instantly. It streamlines metro operations using Service Catalog, Flow Designer, and Notifications for a seamless and efficient travel experience.",
+      "licenses": [
+        {
+          "license": {
+            "name": "UNLICENSED"
+          }
+        }
+      ],
+      "purl": "pkg:servicenow/x-1832142-metro-ticket-generating-system@1.0.0?sys_scope_id=600fa73093698f507202f9fbdd03d6bc"
+    }
+  },
+  "components": [],
+  "dependencies": [
+    {
+      "ref": "pkg:servicenow/x-1832142-metro-ticket-generating-system@1.0.0?sys_scope_id=600fa73093698f507202f9fbdd03d6bc"
+    }
+  ]
+}]]></content>
+        <external_source>false</external_source>
+        <path>x_1832142_metro_0/x-1832142-metro-ticket-generating-system/1.0.0/bom.json</path>
+        <sys_class_name>sys_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-18 03:53:15</sys_created_on>
+        <sys_id>7424e12b827945889c04954c0086835c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1832142_metro_0/x-1832142-metro-ticket-generating-system/1.0.0/bom.json</sys_name>
+        <sys_package display_value="Metro Ticket Generating System" source="x_1832142_metro_0">600fa73093698f507202f9fbdd03d6bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Metro Ticket Generating System">600fa73093698f507202f9fbdd03d6bc</sys_scope>
+        <sys_update_name>sys_module_7424e12b827945889c04954c0086835c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-18 03:53:15</sys_updated_on>
+    </sys_module>
+</record_update>
